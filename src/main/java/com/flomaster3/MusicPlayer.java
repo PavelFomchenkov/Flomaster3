@@ -1,13 +1,21 @@
 package com.flomaster3;
 
-import java.util.Random;
+import org.springframework.beans.factory.annotation.Value;
+import javax.annotation.PostConstruct;
 
+import java.util.Random;
 public class MusicPlayer {
     private final Music[] genreList;
+    @Value("${musicPlayer.name}")
+    private String name;
+    @Value("${musicPlayer.volume}")
+    private int volume;
+
     public MusicPlayer(Music[] genreList){
         this.genreList = genreList;
         }
-
+    @PostConstruct
+    public void Init(){ System.out.println("Starting " + name + " @ volume " + volume);}
         private void playMusic(Music music){
             Random random = new Random();
             int randomSong = random.nextInt(music.playMusic().size());

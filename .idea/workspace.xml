@@ -5,21 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d956bfd9-c5af-4ae6-809c-1dcae7f43f6c" name="Changes" comment="lesson 13 homework">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flomaster3/ClassicalMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flomaster3/Genre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flomaster3/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flomaster3/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flomaster3/PopMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flomaster3/RockMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flomaster3/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flomaster3/TestSpring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/flomaster3/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/flomaster3/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/flomaster3/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/flomaster3/SpringConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +54,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "spring.configuration.checksum": "ca9d9241ad9a8ecd58bda2117eeba93f",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "spring.configuration.checksum": "45df0a88cb8520db94c32c42e3f39c3b",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -107,8 +98,23 @@
       <workItem from="1684092863339" duration="3466000" />
       <workItem from="1684183397710" duration="19000" />
       <workItem from="1684259517121" duration="2968000" />
-      <workItem from="1684263076425" duration="3288000" />
+      <workItem from="1684263076425" duration="3425000" />
+      <workItem from="1684435177143" duration="4000" />
+      <workItem from="1684784395731" duration="486000" />
+      <workItem from="1684785034470" duration="163000" />
+      <workItem from="1684785252140" duration="249000" />
+      <workItem from="1684785560530" duration="672000" />
+      <workItem from="1684786358620" duration="2082000" />
+      <workItem from="1685175366127" duration="2746000" />
     </task>
+    <task id="LOCAL-00001" summary="lesson 13 homework">
+      <created>1684267901902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684267901902</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
